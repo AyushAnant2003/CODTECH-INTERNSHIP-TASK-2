@@ -6,6 +6,7 @@
 **Mentor:** Neela Santhosh Kumar
 
 **Overview of the project**
+
 **Project: Student Grade System**
 A graphical user interface (GUI) application for managing student grades. The application allows users to add grades for different subjects and calculate the average grade, GPA, and letter grade for a student.
 
